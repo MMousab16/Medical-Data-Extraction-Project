@@ -53,6 +53,6 @@ medical-project\
 │ └─ requirements.txt\
 ├─ tests/ # Unit tests\
 │ └─ test_parsers.py\
-├─ docs/ # Images/screenshots for README
+├─ docs/ # Images\screenshots for README
 │ └─ screenshot.png\
 └─ README.md
