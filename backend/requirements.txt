@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytesseract
+pdf2image
+opencv-python
+Pillow
+python-multipart
